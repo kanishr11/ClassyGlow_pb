@@ -6,10 +6,9 @@ const Footer = () => {
     <div >
         <div className='flex flex-col sm:grid grid-cols-[3fr_1fr_1fr] gap-14 my-10 mt-40 text-sm'>
             <div className=''>
-                <img src={assets.logo} className='mb-5 w-32' alt="logo_image" />
+                <img src={assets.logo2} className='mb-5 w-32' alt="logo_image" />
                 <p className='w-full md:w-2/3 text-gray-600'>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae enim accusamus possimus nisi, quaerat culpa maxime consectetur tenetur fugit sapiente doloribus provident atque quo incidunt officiis dolore illo ratione debitis.
-                </p>
+                Classy Glow is your go-to for the latest fashion trends and timeless pieces. Our curated collection ensures you always shine, no matter the occasion. Enjoy top-quality items, exclusive deals, and exceptional customer service. Subscribe now for a 20% discount on your first order and elevate your style.                </p>
             </div>
             <div className=''>
                 <p className='text-xl font-medium mb-5'>COMPANY</p>

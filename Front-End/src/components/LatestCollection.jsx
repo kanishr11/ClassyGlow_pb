@@ -22,8 +22,11 @@ const LatestCollection = () => {
       <div className='text-center text-3xl py-8'>
           <Title text1={'LATEST'} text2={'COLLECTION'}/>
           <p className='w-3/4 m-auto text-xs sm:text-sm md:text-base text-gray-600'>
-          Short paragraphs are easier to read and understand. Writing experts recommend paragraphs of no more than 150 words in three to eight sentences. Paragraphs should never be longer than 250 words.
-          </p>
+          Welcome to our newest arrivals! Discover the latest trends and fresh styles right here.
+<br />
+Launch Countdown Excitement builds up for new arrivals! Stay tuned for the latest drops with our countdown timer.
+<br />
+Curated Categories Discover our themed collections! Explore categories like "Spring Collection" and "Trending Now."          </p>
       </div>
 
       {/* Rendering products */}

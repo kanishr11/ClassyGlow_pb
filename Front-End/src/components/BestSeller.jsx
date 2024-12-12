@@ -18,7 +18,9 @@ const BestSeller = () => {
         <div className='text-center text-3xl py-8'>
             <Title text1={'BEST'} text2={'SELLERS'}/>
             <p className='w-3/4 m-auto text-xs sm:text-sm md:text-base text-gray-600'>
-          Short paragraphs are easier to read and understand. Writing experts recommend paragraphs of no more than 150 words in three to eight sentences. Paragraphs should never be longer than 250 words.
+            Discover our most popular products, adored by customers like you! Shop our best sellers and find your new favorites today.
+<br />
+Customer Reviews and Ratings Hear from our happy customers! Our best sellers have top ratings and rave reviews.
           </p>
         </div>
 
