@@ -24,7 +24,7 @@ Customer Reviews and Ratings Hear from our happy customers! Our best sellers hav
           </p>
         </div>
 
-        <div className='grid grid-cols-2 sm:grid-cols-3 grid-cols-4 sm:grid-cols-5 gap-4 gap-y-6 '>
+        <div className='grid grid-cols-2 sm:grid-cols-4  gap-4 gap-y-6 '>
         {bestSeller.map((item, index) => (
                     <ProductItems 
                         key={index} 

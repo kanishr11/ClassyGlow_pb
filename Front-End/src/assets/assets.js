@@ -1,5 +1,4 @@
 
-
 import logo from './Frame4.png'
 import logo2 from './logo2.png'
 import hero_img from './hero_img.png'
